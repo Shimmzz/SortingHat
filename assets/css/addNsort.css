@@ -1,0 +1,19 @@
+form{
+    color: white;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.formElement{
+    display: inline-block;
+    padding: 20px;
+}
+
+#submitButton{
+    height: 50px;
+    width: 250px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightsteelblue;
+    border-color: white;
+}

@@ -1,0 +1,14 @@
+body{
+    background-image: url(../images/background.jpeg);
+}
+
+#homeNav{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px; 
+    background-color: midnightblue;
+    padding: 5px;
+    border: 2px solid white;
+    display: inline;
+    text-align: left;
+    
+}
